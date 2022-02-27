@@ -8,6 +8,8 @@ Sample website with plenty of files for demos
 
 ## Introduction 
 
+This is example is to show that different parts of the git reprository and various commands using a web project.
+
 ##Deployement
 
 ##How To Contribute
