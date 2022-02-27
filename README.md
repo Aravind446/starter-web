@@ -13,3 +13,6 @@ This is example is to show that different parts of the git reprository and vario
 ##Deployement
 
 ##How To Contribute
+
+##Copyright
+2014 git.training.
